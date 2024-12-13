@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pytemperatureconverter",
-    version="1.1.0",
+    version="1.2.0",
     author="Zeeshan Khalid",
     author_email="nszeeshankhalid@gmail.com",
     description="A simple Python library to convert temperatures between four scales (Celsius, Fahrenheit, Kelvin, and Rankine) with warnings for physically impossible conversions.",
