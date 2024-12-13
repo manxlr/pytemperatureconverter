@@ -6,7 +6,7 @@ setup(
     author="Zeeshan Khalid",
     author_email="nszeeshankhalid@gmail.com",
     description="A simple Python library to convert temperatures between four scales (Celsius, Fahrenheit, Kelvin, and Rankine) with warnings for physically impossible conversions.",
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type="text/markdown",
     url="https://github.com/manxlr",
     packages=find_packages(),
