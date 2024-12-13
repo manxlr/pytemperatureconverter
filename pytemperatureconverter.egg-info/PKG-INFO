@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pytemperatureconverter
-Version: 1.1.0
+Version: 1.2.0
 Summary: A simple Python library to convert temperatures between four scales (Celsius, Fahrenheit, Kelvin, and Rankine) with warnings for physically impossible conversions.
 Home-page: https://github.com/manxlr
 Author: Zeeshan Khalid
