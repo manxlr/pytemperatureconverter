@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pytemperatureconverter/__init__.py
+pytemperatureconverter/functions.py
+pytemperatureconverter.egg-info/PKG-INFO
+pytemperatureconverter.egg-info/SOURCES.txt
+pytemperatureconverter.egg-info/dependency_links.txt
+pytemperatureconverter.egg-info/top_level.txt
+tests/test_functions.py
