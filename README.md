@@ -103,7 +103,7 @@ pytest tests/
 
 ## 🔄 **Changelog**
 
-### Latest Updates (v1.1.0)
+### Latest Updates (v1.2.0)
 
 - Added **User Input Validation** with warnings for physically impossible conversions.
 - Included **new test cases** to cover all edge cases across temperature scales.
