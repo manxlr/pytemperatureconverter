@@ -25,15 +25,15 @@
 ---
 
 ## 📝 **Table of Contents**
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [API Reference](#api-reference)
-4. [Testing](#testing)
-5. [Changelog](#changelog)
-6. [Contribution](#contribution)
-7. [License](#license)
-8. [Contact](#contact)
-9. [Donations](#donations)
+1. [Installation](#-installation)
+2. [Usage](#-usage)
+3. [API Reference](#-api-reference)
+4. [Testing](#-testing)
+5. [Changelog](#-changelog)
+6. [Contribution](#-contribution)
+7. [License](#-license)
+8. [Contact](#-contact)
+9. [Donations](#-donations)
 
 ---
 
