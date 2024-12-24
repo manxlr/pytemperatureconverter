@@ -119,7 +119,7 @@ We welcome contributions! If you have any improvements, bug fixes, or new test i
 - Create a new branch.
 - Submit a Pull Request with a detailed description of your changes.
 
-### Repo Link: [https://github.com/manxlr](https://github.com/manxlr)
+### Repo Link: [https://github.com/manxlr/pytemperatureconverter](https://github.com/manxlr/pytemperatureconverter)
 
 ---
 
